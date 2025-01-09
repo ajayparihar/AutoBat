@@ -1,6 +1,10 @@
+Here’s your updated overview with the necessary details included:
+
+---
+
 ## Overview
 
-AutoBat is a simple yet powerful batch script that allows users to quickly open predefined URLs using a command-line interface. Whether you need to open multiple websites simultaneously or quickly access a specific page, AutoBat makes it easy. By selecting options from a menu, users can either open all links or choose individual ones with ease.
+**AutoBat** is a simple yet powerful batch script that allows users to quickly open predefined URLs using a command-line interface. Whether you need to open multiple websites simultaneously or quickly access a specific page, AutoBat makes it easy. By selecting options from a menu, users can either open all links or choose individual ones with ease.
 
 ---
 
@@ -48,7 +52,7 @@ Upon running the script, you will be presented with the following menu:
 
 ```
 ---------------------------------------
-      Welcome to AutoBat - Session Name!
+      Welcome to AutoBat - Link Launcher
 ---------------------------------------
 [A] Open All Links
 [1] Open Link 1
@@ -95,6 +99,11 @@ Feel free to fork the repository, make improvements, and submit pull requests. I
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
---- 
+---
 
 Thank you for using **AutoBat**!
+
+---
+
+### Additional Notes:
+This overview now includes details for both usage and technical context, while aligning with your batch script functionality and ensuring clarity on how to use and modify the script.
